@@ -2,8 +2,8 @@
 
 Run search_expt_x86.exe
 
-Find the C or left-right reversed C and respond by doing a <kbd>LEFT</kbd> or <kbd>RIGHT</kbd> click, respectively. 
+In the experiment, do a <kbd>LEFT</kbd> click if you see a C-shape or a <kbd>RIGHT</kbd> click if you don't. 
 
-Use <kbd>ALT</kbd>+<kbd>F10</kbd> to terminate the program.
+Press <kbd>ALT</kbd>+<kbd>F10</kbd> to terminate the program.
 
 
