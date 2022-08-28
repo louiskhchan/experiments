@@ -8,19 +8,19 @@ I ran numerous experiments and cannot upload all of them here. However, I may sh
 
 This is a class experiment I ran last year related to my [recently published paper](https://cognitiveresearchjournal.springeropen.com/articles/10.1186/s41235-022-00392-8). In this experiment, you look for a green circle among circles of other colours. What is unique about this experiment is that the stimuli are dynamic and move in and out from the view. This mimics real-life search scenarios better than traditional research of the same kind. This experiment is programmed in JavaScript and Canvas.
 
-[[Code]](dynamic_search/) [[Online experiment]]()
+[[Code]](dynamic_search/) [[Online experiment]](https://louiskhchan.github.io/experiments/dynamic_search/index.htm?id=testuser)
 
 ## Target prevalence effect experiment
 
 This is an experiment I ran in 2017. I presented the results at the 2017 Vision Sciences Society meeting [[abstract]](https://jov.arvojournals.org/article.aspx?articleid=2652004) [[pdf]](). This experiment studies how the frequency a target occurs would affect your decisions. Its result informs my later research on simulating human decisions using computer modelling techniques. This experiment is programmed in C++ with Direct2D.
 
 
-[[Code]](target_prevalence/) [[Windows x86 build]]()
+[[Code]](target_prevalence/source/) [[Windows x86 build]](target_prevalence/build/)
 
 ## Attentional capture experiment
 
 This is an experiment I ran in 2010-2014, and its results were published [in this paper](https://psycnet.apa.org/doi/10.1037/a0037897). This experiment studies how a salient object may distract you from a visual search task. It is unique because it measures accuracy at threshold exposure instead of reaction time. This experiment is programmed in C++ with libSDL.
 
-[[Code]](attentional_capture/) [[Windows x86 build]]()
+[[Code]](attentional_capture/source/) [[Windows x86 build]](attentional_capture/build/)
 
 
