@@ -10,6 +10,9 @@ This is a class experiment I ran last year related to my [recently published pap
 
 [[Code]](dynamic_search/) [[Online experiment]](https://louiskhchan.github.io/experiments/dynamic_search/index.htm?id=testuser)
 
+<img src='dynamic_search.gif' width='400' />
+
+
 ## Target prevalence effect experiment
 
 This is an experiment I ran in 2017. I presented the results at the 2017 Vision Sciences Society meeting [[abstract]](https://jov.arvojournals.org/article.aspx?articleid=2652004) [[pdf]](). This experiment studies how the frequency a target occurs would affect your decisions. Its result informs my later research on simulating human decisions using computer modelling techniques. This experiment is programmed in C++ with Direct2D.
@@ -17,10 +20,14 @@ This is an experiment I ran in 2017. I presented the results at the 2017 Vision 
 
 [[Code]](target_prevalence/source/) [[Windows x86 build]](target_prevalence/build/)
 
+<img src='prevalence.gif' width='400' />
+
+
 ## Attentional capture experiment
 
 This is an experiment I ran in 2010-2014, and its results were published [in this paper](https://psycnet.apa.org/doi/10.1037/a0037897). This experiment studies how a salient object may distract you from a visual search task. It is unique because it measures accuracy at threshold exposure instead of reaction time. This experiment is programmed in C++ with libSDL.
 
 [[Code]](attentional_capture/source/) [[Windows x86 build]](attentional_capture/build/)
 
+<img src='capture.png' width='400' />
 
